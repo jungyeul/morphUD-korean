@@ -1,6 +1,9 @@
 # Yet Another Format of Universal Dependencies for Korean (Accepted to COLING 2020)
 
-Yige Chen et al. 
+Yige Chen, Eunkyul Leah Jo, Yundong Yao, KyungTae Lim, Miikka Silfverberg, Francis M. Tyers, and Jungyeul Park
+$^{\dagger}$The Chinese University of Hong Kong, Hong Kong ~~ $^{\ddagger}$The University of British Columbia, Canada
+$^{\mathparagraph}$Hanbat National University \& TeddySum, South Korea ~~ $^{\mathsection}$Indiana University, USA
+
 
 ## Contents
 
