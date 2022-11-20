@@ -1,6 +1,7 @@
 # Yet Another Format of Universal Dependencies for Korean (Accepted to COLING 2020)
 
-Yige Chen<sup>1*</sup>, Eunkyul Leah Jo<sup>2*</sup>, Yundong Yao<sup>2*</sup>, KyungTae Lim<sup>3</sup>, Miikka Silfverberg<sup>2</sup>, Francis M. Tyers<sup>4</sup>, and Jungyeul Park<sup>2</sup> (<sup>*</sup>Yige Chen, Eunkyul Leah Jo, and Yundong Yao contributed equally.)
+Yige Chen<sup>1*</sup>, Eunkyul Leah Jo<sup>2*</sup>, Yundong Yao<sup>2*</sup>, KyungTae Lim<sup>3</sup>, Miikka Silfverberg<sup>2</sup>, Francis M. Tyers<sup>4</sup>, and Jungyeul Park<sup>2</sup> (2022). Yet Another Format of Universal Dependencies for Korean. Proceedings of the 29th International Conference on Computational Linguistics, 5432–5437. https://aclanthology.org/2022.coling-1.482 (<sup>*</sup>Yige Chen, Eunkyul Leah Jo, and Yundong Yao contributed equally.) 
+
 
 <sup>1</sup>The Chinese University of Hong Kong, Hong Kong, <sup>2</sup>The University of British Columbia, Canada, <sup>3</sup>Hanbat National University & TeddySum, South Korea, and <sup>4</sup>Indiana University, USA.
 
