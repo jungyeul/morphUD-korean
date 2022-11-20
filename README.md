@@ -25,10 +25,15 @@ Yige Chen<sup>1*</sup>, Eunkyul Leah Jo<sup>2*</sup>, Yundong Yao<sup>2*</sup>, 
 ## References
 
 ```
-@InProceedings{chen-jo-yao-lim-silfverberg-tyers-park:2022:COLING,
-  author    = {Chen, Yige  and  Jo, Eunkyul Leah  and  Yao, Yundong  and  Lim, KyungTae  and  Silfverberg, Miikka  and  Tyers, Francis  and  Park, Jungyeul},
-  title     = {Yet Another Format of Universal Dependencies for Korean},
-  booktitle = {Proceedings of the 29th International Conference on Computational Linguistics},
-  year      = {2022}
+@inproceedings{chen-EtAl:2022:COLING,
+address = {Gyeongju, Republic of Korea},
+author = {Chen, Yige and Jo, Eunkyul Leah and Yao, Yundong and Lim, KyungTae and Silfverberg, Miikka and Tyers, Francis M and Park, Jungyeul},
+booktitle = {Proceedings of the 29th International Conference on Computational Linguistics},
+month = {oct},
+pages = {5432--5437},
+publisher = {International Committee on Computational Linguistics},
+title = {{Yet Another Format of Universal Dependencies for Korean}},
+url = {https://aclanthology.org/2022.coling-1.482},
+year = {2022}
 }
 ```
